@@ -4,11 +4,11 @@
 
 *Consonants* (IPA with Romanization where necessary):
 
-m			n				ŋ <ng>
+m			n				ŋ(ng)
 
-p ph <ph>	b	t  th <th>	d		k  kh <kh>  g	q [qh]	ʔ <'>
+p p<sup>h</sup>(ph)	b	t  t<sup>h</sup>(th)	d		k  k<sup>h</sup>(kh)  g	q ʔ(')
 
-s	z	ʃ <sh>		j <y>		h
+s	z	ʃ(sh)		j(y)		h
 
 w 			r
 
