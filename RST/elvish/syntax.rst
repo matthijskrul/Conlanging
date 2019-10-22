@@ -26,30 +26,30 @@ Person NOM    ACC      DAT        COM/INS
 2DU    i\:maz i\:mazið i:mazG|We| i:mazin
 3DUAN  danaz  danazið  danazG|We| danazin
 3DUIN  danarm danarmið danaʁ|We|  danarmin
-1PL    mɑl\:a mɑlð     mɑʁwe      mɑl:an
+1PL    mɑl\:a mɑlð     mɑʁ|We|      mɑl:an
 2PL    ʃeɔn   ʃeɔð     ʃeɔG|We|   ʃeɔn
 3PLAN  θi\:l  θi\:lið  θi:ʁ|We|   θi:lin
 3PLIN  θi\:lm θi\:lmið θi:ʁ|We|   θi:lmin
 ====== ====== ======== ========== ========
 
-.. |We| replace:: :sup:'w'\ e
+.. |We| replace:: :superscript:`w`\ e
 
 \* When the following word begins with a vowel, reduces to wɛl
 
 Polypersonal bound forms (suffixed):
 
-1SG: -wɛ/ə\*\*
-2SG: -i:
-3SGAN: -da
-3SGIN: -dam
-1DU: -wɛz
-2DU: -i:z
-3DUAN: -daz
-3DUIN: -dar
-1PL: -mɑl
-2PL: -ʃɔ
-3PLAN: -i:l
-3PLIN: -i:m
+| 1SG: -wɛ/ə\*\*
+| 2SG: -i:
+| 3SGAN: -da
+| 3SGIN: -dam
+| 1DU: -wɛz
+| 2DU: -i:z
+| 3DUAN: -daz
+| 3DUIN: -dar
+| 1PL: -mɑl
+| 2PL: -ʃɔ
+| 3PLAN: -i:l
+| 3PLIN: -i:m
 
 \*\* when word final
 
@@ -122,15 +122,15 @@ Demonstratives:
 
 The pronominal demonstrative is a deictic suffix on 3SG or noun forms. These distinguish nearness of the speaker and the hearer as follows:
 
-Near speaker: -p\ :sup:`h`\ a
-Near hearer: -e (*of unknown origin*)
-Distal: -ɑm
-Neutral: -aʃ (*of unknown origin*)
+| Near speaker: -p\ :superscript:`h`\ a
+| Near hearer: -e (*of unknown origin*)
+| Distal: -ɑm
+| Neutral: -aʃ (*of unknown origin*)
 
 The adnominal demonstrative is formed by a separate word following the noun. It lacks a neutral form:
-Near speaker: jap\ :sup:`h` (from 'ja p\ :sup:`h`\ an', meaning 'the here' in proto-Elvish)
-Near hearer: imas (from 'i:mas', no longer functional locative of 2SG, ie 'at you')
-Distal: jɑmpɑn (from 'ja ɑmpɑn', 'the there' in proto-Elvish)
+| Near speaker: jap\ :superscript:`h` (from 'ja p\ :superscript:`h`\ an', meaning 'the here' in | proto-Elvish)
+| Near hearer: imas (from 'i:mas', no longer functional locative of 2SG, ie 'at | you')
+| Distal: jɑmpɑn (from 'ja ɑmpɑn', 'the there' in proto-Elvish)
 
 There is a distributive suffix (meaning 'all around, all over the place, all about' etc. When used on a noun instead of the verb, it means ‘each’, e.g.
 “each of the elves carried...” etc): -um (from proto-Elvish 'um:a', meaning 'around, about')
@@ -192,7 +192,7 @@ Tense:
 Present/Future: unmarked.
 Hodiernal: -xar (proto-Elvish 'ixaraθ', 'yesterday')
 Proximate past: -par (unknown)
-General past: -t:sup:`h`\ u (proto-Elvish verb stem 't:sup:`h`\ ul-',
+General past: -t:superscript:`h`\ u (proto-Elvish verb stem 't:superscript:`h`\ ul-',
 'get, receive')
 Remote past: -qa (proto-Elvish verb stem 'qal-', 'say'; evolved from
 evidential to tense)
@@ -222,7 +222,7 @@ necessity/inference, ('must have X...')
 
 Ability/Possibility:
 
-- Preverbal marker *t*\ :sup:`h`\ *ul* (derived from 'to get' in proto-Elvish), indicating physical ability ('can, able to...'), situational possibility, and permission
+- Preverbal marker *t*\ :superscript:`h`\ *ul* (derived from 'to get' in proto-Elvish), indicating physical ability ('can, able to...'), situational possibility, and permission
 
 - Preverbal marker *ælvrin*, derived from 'knowing' in proto-Elvish, indicating mental ability ('can, know how to...');
 
@@ -291,7 +291,7 @@ in Old Elvish. The default form is the one derived from the malefactive.
 The benefactive derived form is a suffix -s:a
 
 The malefactive derived form is a suffix -wa (cf. proto-Elvish
-*q*\ :sup:`w`\ *ar* = 'cut', which is thought to be the remote origin of
+*q*\ :superscript:`w`\ *ar* = 'cut', which is thought to be the remote origin of
 the malefactive)
 
 Clausal:
@@ -321,7 +321,7 @@ Possessives:
 
 - Possessives are marked by the possessive enclitic -u, which attaches to the first noun of the possessed phrase, followed by the (non-obligatory) pronoun markers.
 
-E.g. 'I get the dog's big white bone' = *t*\ :sup:`h`\ *ulwə* *eulnda
+E.g. 'I get the dog's big white bone' = *t*\ :superscript:`h`\ *ulwə* *eulnda
 galau ail yasi:lɑn:il*\ (get.1SG bone.3SG snow.like big DEF.dog)
 
 Adverbials:
@@ -388,7 +388,7 @@ possible but not obligatory contextual meaning of 'too much' of either.)
 Verbal morphology:
 ******************
 
-- Intermittently, occasionally: -k\ :sup:`w`\ a
+- Intermittently, occasionally: -k\ :superscript:`w`\ a
 
 - Intensifier: reduplication of root (usually first V or CV)
 
@@ -405,7 +405,7 @@ Locatives:
 
 - At (direction of), toward, onto: -(i)ð
 
-- To, for, into: -G\ :sup:`w`\ e
+- To, for, into: -G\ :superscript:`w`\ e
 
 - With (com. and ins.), using: -(i)n
 
@@ -417,6 +417,6 @@ Locatives:
 
 - Far (both adj. and adv.): -yɑm (from distal demonst. morphology)
 
-- Near, close (as above): -yap\ :sup:`h`
+- Near, close (as above): -yap\ :superscript:`h`
 
 - Around, to the back of: -ɪ
