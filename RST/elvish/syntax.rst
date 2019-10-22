@@ -11,7 +11,8 @@ Old Elvish pronouns distinguish animacy and inanimacy in the third person only.
 They have dual number, and besides the nominative three other cases, namely
 accusative, dative, and a comitative/instrumental.
 
-*Pronouns*
+Pronouns
+********
 
 Independent forms:
 
@@ -58,7 +59,8 @@ incorporation (see below). This is in fact the pragmatically unmarked
 strategy, but use of independent pronouns does happen to place emphasis
 on any argument in the clause.
 
-*Nouns*:
+Nouns and Articles
+******************
 
 Dual marker (rare nouns, including referring to persons): Prefix zu-
 
@@ -109,16 +111,18 @@ beginning of a new phase of noun incorporation, in this stage not yet
 complete. This corresponds to NI classes I & II in Mithun's
 classification.
 
-*Adjectives*:
+Adjectives
+**********
 
 Animate unmarked.
 Inanimate marker: -n
 
 Adjectives follow nouns.
 
-*Demonstratives, numerals, etc*:
+Demonstratives, numerals, etc.
+******************************
 
-Demonstratives:
+*Demonstratives*:
 
 The pronominal demonstrative is a deictic suffix on 3SG or noun forms. These distinguish nearness of the speaker and the hearer as follows:
 
@@ -134,6 +138,7 @@ The adnominal demonstrative is formed by a separate word following the noun. It 
 | Near hearer: imas (from 'i:mas', no longer functional locative of 2SG, ie 'at you')
 | Distal: jɑmpɑn (from 'ja ɑmpɑn', 'the there' in proto-Elvish)
 
+
 There is a distributive suffix (meaning 'all around, all over the place, all about' etc. When used on a noun instead of the verb, it means ‘each’, e.g.
 “each of the elves carried...” etc): -um (from proto-Elvish 'um:a', meaning 'around, about')
 
@@ -143,22 +148,22 @@ Numerals cannot be pluralized. They require some independent noun,
 possibly a placeholder noun, to be associated with. (E.g. 'to three I
 gave...' becomes 'to three people I gave...'.)
 
-*Adpositions*:
+Adpositions
+***********
 
 Adpositions precede nouns. Most, however, appear as derivational
 morphology: see `Derivational Morphology`_ below.
 
-*Verbs:*
+Verbs
+*****
 
-Stems:
-******
+*Stems*
 
 -i is the stem for the infinitive and imperative, participles and for
 passives. This was an old proto-Elvish infinitive that got reanalyzed as
 the stem form in certain cases and then extended by analogy.
 
-Past stems:
-***********
+*Past stems*
 
 Note that all past forms (see above) are based on the past stem, not the
 nonpast stem, of the verb. These follow apophony (ablaut) patterns,
@@ -188,8 +193,7 @@ Long vowels, however, keep their form and are unaffected by the ablaut.
 The ablaut ignores compounding of any kind, including noun
 incorporation.
 
-Tense:
-******
+*Tense*
 
 Present/Future: unmarked.
 Hodiernal: -xar (proto-Elvish 'ixaraθ', 'yesterday')
@@ -202,16 +206,14 @@ evidential to tense)
 For verb stems ending on a consonant, the -i stem is also inserted in
 past tense.
 
-Aspect:
-*******
+*Aspect*
 
 The perfective aspect is unmarked.
 Imperfective marker (follows tense): -o. Imperfective is also used for
 habituals.
 Strong completive marker ('all the way, completely, totally'): preverbal particle *tul* (from past stem of tali, 'finish' -> tuli)
 
-Mood:
-*****
+*Mood*
 
 Infinitive: stem + -ar. (The -ar form comes from the postverbal particle
 ar, meaning 'in order to'.)
@@ -259,8 +261,7 @@ There is one evidential marker, for direct sight of an ongoing object
 or situation, a main clause initial proclitic *lo:* derived from
 proto-Elvish 'I see' ('wɛl:ə o:n')
 
-Standard forms:
-***************
+*Standard Forms*
 
 Reflexive: -su(l) (from proto-Elvish 'sulɪs', 'body, self')
 
@@ -340,7 +341,8 @@ as:
 
 .. _`Derivational Morphology`:
 
-*Derivational Morphology*:
+Derivational Morphology
+***********************
 
 Old Elvish has a great deal of lexically specific derivational suffixes,
 which precede TAM markers. These can be attached to the basic roots and
@@ -357,8 +359,7 @@ Note that often it is also possible to express the same meaning
 nonderivationally. Generally, this will have topicalizing or emphatic
 effect.
 
-Nominal morphology:
-*******************
+*Nominal morphology*
 
 - Diminutive: -il
 
@@ -387,8 +388,7 @@ possible but not obligatory contextual meaning of 'too much' of either.)
 
 - Holding, containing (or holder, container): dun-
 
-Verbal morphology:
-******************
+*Verbal morphology*
 
 - Intermittently, occasionally: -k\ :superscript:`w`\ a
 
@@ -402,8 +402,7 @@ Verbal morphology:
 
 - Again ('re-'): ɪ+duplicate following consonant, else ɪh-
 
-Locatives:
-**********
+*Locatives*
 
 - At (direction of), toward, onto: -(i)ð
 
