@@ -1,16 +1,13 @@
-==============
-Elvish Lexicon
-==============
-
+==================
 Old Elvish Lexicon
+==================
 
 Note that when a word with verbal and nominal inflection has the verbal
 form semantically joined with the nominal (e.g. 'tie (with) rope'), the
 nominal form is normally omitted in usage unless emphasis is intended.
 It is as it were zero-incorporated.
 
-\* = the final vowel is omitted if the next word begins with a vowel,
-diphtong, or w.
+* = the final vowel is omitted if the next word begins with a vowel, diphtong, or w.
 
 Animacy is indicated for nouns. Otherwise the noun is inanimate.
 
@@ -46,277 +43,280 @@ Romanization key:
 
 - j: y
 
-**ae**\ *nan*\ water; pond, lake
+--------
+Lexicon:
+--------
 
-**ail**\ *adj*\ big, large; much, a lot
+**ae**  *n an*  water; pond, lake
 
-*v*\ enlarge\ **êsail**
+**ail**  *adj*  big, large; much, a lot
 
-**ar**\ *part*\ in order to
+*v*  enlarge  **êsail**
 
-ath\ *v*\ dwell, reside, live in
+**ar**  *part*  in order to
 
-*n*\ dwelling, living place, house, homeathil
+**ath**  *v*  dwell, reside, live in
 
-aul\ *v*\ jump, leap, pounce
+*n*  dwelling, living place, house, home **athil**
 
-**aum**\ *v*\ wish, desire, hope
+**aul**  *v*  jump, leap, pounce
 
-*n*\ wish, desire, hope
+**aum**  *v*  wish, desire, hope
 
-aunn\ *v*\ eat
+*n*  wish, desire, hope
 
-aus\ *v*\ face, stand/be opposite; oppose, gainsay, contest; rebel
+**aunn**  *v*  eat
 
-*nan*\ face
+**aus**  *v*  face, stand/be opposite; oppose, gainsay, contest; rebel
 
-auva\ *adj*\ bitter
+*n an*  face
 
-*n*\ bitterroot (*Elvish edible plant*)\ **vaiauva**
+**auva**  *adj*  bitter
 
-**aawan**\ *nan*\ hair (*on head*)
+*n*  bitterroot (*Elvish edible plant*)  **vaiauva**
 
-**âm** (*pl.* **êm**)\ *n*\ thing, object (*also placeholder object*)
+**aawan**  *n an*  hair (*on head*)
 
-**ânn**\ *v*\ stand, stay
+**âm** (*pl.* **êm**)  *n*  thing, object (*also placeholder object*)
 
-*nan*\ leg (*pl.*\ **ênn**)
+**ânn**  *v*  stand, stay
 
-*nan*\ dog\ **siilânnil**\ *('little four-legs'*)
+*n an*  leg (*pl.*  **ênn**)
 
-âz\ *nan*\ eye (*pl.*\ êz)
+*n an*  dog  **siilânnil**  *('little four-legs'*)
 
-**ael**\ *v*\ know, understand, comprehend (*PE \*aell*)
+**âz**  *n an*  eye (*pl.*  êz)
 
-*n*\ fact; truth; reality; essence
+**ael**  *v*  know, understand, comprehend (*PE  *aell*)
 
-*n*\ knowledge, understanding\ **ællar**
+*n*  fact; truth; reality; essence
 
-**deôn**\ *num*\ two (*replaces proto-Elvish 'zul'*)
+*n*  knowledge, understanding  **ællar**
 
-*n an*\ twin
+**deôn**  *num*  two (*replaces proto-Elvish 'zul'*)
 
-din\ *v*\ affix, stick
+*n an*  twin
 
-**e**\ *conj*\ and, also
+**din**  *v*  affix, stick
 
-epë\ *nan*\ lower arm
+**e**  *conj*  and, also
 
-eril\ *num*\ six
+**epë**  *n an*  lower arm
 
-eyan\ *num*\ eleven
+**eril**  *num*  six
 
-eun\ *n*\ bone (*PE: \*eeln*)
+**eyan**  *num*  eleven
 
-*n*\ skeletoneumnôn
+**eun**  *n*  bone (*PE:  *eeln*)
 
-eus\ *num*\ one
+*n*  skeleton **eumnôn**
 
-*adj*\ single, alone
+**eus**  *num*  one
 
-gala\ *n*\ snow
+*adj*  single, alone
 
-**Gae**\ *nan*\ fish (*generic*)
+**gala**  *n*  snow
 
-*n*\ fish trap/net\ **dunGae**
+**Gae**  *n an*  fish (*generic*)
 
-**G**\ :sup:`w`\ **ethë**\ *prep*\ to, for
+*n*  fish trap/net  **dunGae**
 
-G\ :sup:`w`\ inë\ *nan*\ navel
+**G**\ :sup:`w`\ **ethë**  *prep*  to, for
 
-**G**\ :sup:`w`\ **ôn**\ *n/adj*\ gold
+**G**\ :sup:`w`\ **inë**  *n an*  navel
 
-hal\ *v*\ run, chase, hunt
+**G**\ :sup:`w`\ **ôn**  *n/adj*  gold
 
-*nan*\ wolfhaxalo ('*runs*\ + *intens. + hab. impf.*')
+**hal**  *v*  run, chase, hunt
 
-hon(ë)\*\ *det*\ all, every
+*n an*  wolf **haxalo** ('*runs*  + *intens. + hab. impf.*')
 
-idhe\ *v*\ come (to), arrive (at), reach
+**hon(ë)** *  *det*  all, every
 
-**il**\ *n*\ place (*placeholder*)
+**idhe**  *v*  come (to), arrive (at), reach
 
-ilë\ *nan*\ nose (P*E \*hilên*)
+**il**  *n*  place (*placeholder*)
 
-in\ *v*\ smell (*trans.*) (*PE \*hiln*)
+**ilë**  *n an*  nose (P*E  *hilên*)
 
-*v*\ stinkêsin
+**in**  *v*  smell (*trans.*) (*PE  *hiln*)
 
-**inti**\ *prep*\ with
+*v*  stink **êsin**
 
-iri\ *num*\ three
+**inti**  *prep*  with
 
-iril\ *num*\ eight
+**iri**  *num*  three
 
-iriyan\ *num*\ thirteen
+**iril**  *num*  eight
 
-**ixrath**\ *adv*\ yesterday
+**iriyan**  *num*  thirteen
 
-înd\ *v*\ sleep
+**ixrath**  *adv*  yesterday
 
-*n*\ sleep
+**înd**  *v*  sleep
 
-*v*\ napindôn
+*n*  sleep
 
-*n*\ napindôn, indil
+*v*  nap **indôn**
 
-kal\ *nan*\ head (*pl.*\ kol)
+*n*  nap **indôn**, **indil**
 
-*n*\ skullikal
+**kal**  *n an*  head (*pl.*  **kol**)
 
-kawa\ *n*\ copper
+*n*  skull **ikal**
 
-kii\ *v*\ shoot, release (*bow*)
+**kawa**  *n*  copper
 
-*n*\ bow
+**kii**  *v*  shoot, release (*bow*)
 
-koleen\ *v*\ take, remove
+*n*  bow
 
-kôlla\ *nan*\ ear (*pl.*\ kella)
+**koleen**  *v*  take, remove
 
-kôm\ *nan*\ neck
+**kôlla**  *n an*  ear (*pl.*  **kella**)
 
-lau\ *v*\ (elf) woman, wife
+**kôm**  *n an*  neck
 
-lîmma\ *nan*\ hand (*pl.*\ lumma)
+**lau**  *v*  (elf) woman, wife
 
-lîn\ *nan*\ elf (*generic term, not gendered*)
+**lîmma**  *n an*  hand (*pl.*  **lumma**)
 
-llath\ *v*\ laugh
+**lîn**  *n an*  elf (*generic term, not gendered*)
 
-mael\ *nan*\ leaf; page; scroll
+**llath**  *v*  laugh
 
-mêsh\ *n/adj*\ iron (tool)
+**mael**  *n an*  leaf; page; scroll
 
-mi\ *v*\ move; walk, go
+**mêsh**  *n/adj*  iron (tool)
 
-*v*\ move (*trans.*), push êsmi
+**mi**  *v*  move; walk, go
 
-missalôn\ *nan*\ music (*lit: 'state of being moved'*)
+*v*  move (*trans.*), push **êsmi**
 
-mizâl\ *n*\ axe (*borrowed from Zhanîm*)
+**missalôn**  *nan*  music (*lit: 'state of being moved'*)
 
-nath\ *n/adj*\ silver
+**mizâl**  *n*  axe
 
-*nan*\ moonnathail ('*big silver'*)
+**nath**  *n/adj*  silver
 
-*nan*\ monthnathais
+*n an*  moon **nathail** ('*big silver'*)
 
-*nan*\ catnathailêz ('*mooneyes'*)
+*n an*  month **nathais**
 
-oon\ *v*\ see, observe
+*n an*  cat **nathailêz** ('*mooneyes'*)
 
-*n*\ sight, view
+**oon**  *v*  see, observe
 
-**ônd**\ *n*\ stone, rock
+*n*  sight, view
 
-**p**\ :sup:`h`\ **aella**\ *nan*\ horse
+**ônd**  *n*  stone, rock
 
-**p**\ :sup:`h`\ **a**\ *det*\ here
+**p**\ :sup:`h`\ **aella**  *nan*  horse
 
-**p**\ :sup:`h`\ **enn**\ *n*\ feather
+**p**\ :sup:`h`\ **a**  *det*  here
 
-**qal**\ *v*\ say, speak; recite; sing
+**p**\ :sup:`h`\ **enn**  *n*  feather
 
-*n an*\ language, speech (*abstr.*); song
+**qal**  *v*  say, speak; recite; sing
 
-*nan*\ epic, legend, myth (*'cycle'*)\ **qalmôn**
+*n an*  language, speech (*abstr.*); song
 
-*nan*\ bird\ **qalo**\ ('*sings + hab. impf.'*)
+*n an*  epic, legend, myth (*'cycle'*)  **qalmôn**
 
-qaann\ *n*\ horn
+*n an*  bird  **qalo**  ('*sings + hab. impf.'*)
 
-*adj*\ hard
+**qaann**  *n*  horn
 
-**q**\ :sup:`w`\ **ar**\ *v*\ cut
+*adj*  hard
 
-**âq**\ :sup:`w`\ **ar**\ *v*\ chop (into pieces) (*thing-cut*)
+**q**\ :sup:`w`\ **ar**  *v*  cut
 
-rath\ *v*\ burn (*act.*) (*stat. uses reflex.*)
+**âq**\ :sup:`w`\ **ar**  *v*  chop (into pieces) (*thing-cut*)
 
-*nan*\ fire
+**rath**  *v*  burn (*act.*) (*stat. uses reflex.*)
 
-*nin*\ flint, pyriterathônd (*firestone*)
+*n an*  fire
 
-rila\ *num*\ five
+*n in*  flint, pyriterathônd (*firestone*)
 
-rilyan\ *num*\ fifteen
+**rila**  *num*  five
 
-roa\ *v*\ bleed, drain (*act.*) (*stat. uses reflex.*)
+**rilyan**  *num*  fifteen
 
-*nan*\ blood
+**roa**  *v*  bleed, drain (*act.*) (*stat. uses reflex.*)
 
-**sâsh**\ *v*\ tie, bind
+*n an*  blood
 
-*n*\ rope
+**sâsh**  *v*  tie, bind
 
-**zusâsh**\ *v*\ tie together (smth. to another th.)
+*n*  rope
 
-sêth\ *v*\ pull (out), draw out
+**zusâsh**  *v*  tie together (smth. to another th.)
 
-siil\ *num*\ four
+**sêth**  *v*  pull (out), draw out
 
-siilyan\ *num*\ fourteen
+**siil**  *num*  four
 
-siiril\ *num*\ nine
+**siilyan**  *num*  fourteen
 
-sulîs\ *n*\ self; person; nature, essence; character
+**siiril**  *num*  nine
 
-shae\ *n*\ bark; book (*PE \*ssae*)
+**sulîs**  *n*  self; person; nature, essence; character
 
-shar\ *n*\ mountain
+**shae**  *n*  bark; book (*PE  *ssae*)
 
-sheth\ *v*\ drink (*PE \*seth*)
+**shar**  *n*  mountain
 
-*n*\ drink
+**sheth**  *v*  drink (*PE  *seth*)
 
-shil\ *nan*\ tongue
+*n*  drink
 
-tissaa\ *nan*\ knee
+**shil**  *n an*  tongue
 
-t\ :sup:`h`\ ul\ *v*\ get, receive, obtain
+**tissaa**  *n an*  knee
 
-*n*\ gift
+t  :sup:`h`  ul  *v*  get, receive, obtain
 
-**thâm** (*pl.* **thêm**)\ *nan*\ dwarf
+*n*  gift
 
-thaer\ *pron*\ who, what (*pl.*\ thaeri)
+**thâm** (*pl.* **thêm**)  *nan*  dwarf
 
-und\ *n*\ tooth (*pl.*\ ônd)
+**thaer**  *pron*  who, what (*pl.*  **thaeri**)
 
-us\ *nan*\ foot (*pl.*\ ôs)
+**und**  *n*  tooth (*pl.*  **ônd**)
 
-van\ *v*\ shine, gleam, glitter
+**us**  *nan*  foot (*pl.*  **ôs**)
 
-*n*\ light, sheen
+**van**  *v*  shine, gleam, glitter
 
-*nan*\ sunvavano (*'shines intensely+hab. impf.'*)
+*n*  light, sheen
 
-*nan*\ dayvavas
+*n an*  sun **vavano** (*'shines intensely+hab. impf.'*)
 
-vai\ *nan*\ root, tuber; origin
+*n an*  day **vavas**
 
-vaa\ *nan*\ mouth; (*fig.*) opening
+**vai**  *n an*  root, tuber; origin
 
-wai\ *nan*\ upper arm
+**vaa**  *n an*  mouth; (*fig.*) opening
 
-wela\ *n*\ tree
+**wai**  *n an*  upper arm
 
-yana\ *num*\ ten
+**wela**  *n*  tree
 
-yanyana\ *num*\ twenty
+**yana**  *num*  ten
 
-yilth\ *v*\ speed, hasten
+**yanyana**  *num*  twenty
 
-*n*\ speed
+**yilth**  *v*  speed, hasten
 
-*adj/adv*\ fastyilthin
+*n*  speed
 
-zeu\ *nan*\ ant
+*adj/adv*  fast **yilthin**
 
-zul\ *v*\ split, divide
+**zeu**  *n an*  ant
 
-zuril\ *num*\ seven
+**zul**  *v*  split, divide
 
-zuyan\ *num*\ twelve
+**zuril**  *num*  seven
 
+**zuyan**  *num*  twelve

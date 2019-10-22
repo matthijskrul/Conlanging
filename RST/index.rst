@@ -13,13 +13,15 @@ my own conlangs along more naturalistic and scientifically grounded lines. I hav
 langing, and although it is somewhat unfashionable nowadays among conlangers (I think), did not hesi
 tate to apply them to your typical post-Tolkienian fantasy setting, such as one for my D&D games.
 I wanted to develop at least one 'canonical' human, elven, and dwarven language, each with very
-different features and principles. The human is inspired (among other things) by Austronesian and 
+different features and principles. The human is inspired (among other things) by Austronesian and
 Polynesian languages; the elvish one by polysynthesis in native North America (albeit with a more
 traditionally 'elvish' phonology); the dwarvish one has a heavy nominal syntax and takes inspiration
 from Bantu and Australian languages. They are quite incomplete, some more so than others, and I tinker
 on them whenever I have the time. In due course I might make other ones also. Each is, of course,
 properly evolved from an ancestor, but as the conworld is my D&D setting, that information is so far
-implicit. 
+implicit. The Dwarvish language is currently the best developed and has the best and most material, so far;
+the Human language is very incomplete, while the Elvish is very old and in that sense relatively 'naive',
+dating from when I was first beginning with conlanging. I nonetheless present the Dwarvish and the Elvish here and will update them as I work on them. The files for the Human language will follow when I have more material to present.
 
 Of course, part of the exercise is also to teach myself the relevant markup and technical writing skills
 using these conlangs as a template. Since the originals are ODT files made in LibreOffice rather casually
@@ -27,8 +29,8 @@ and laid out according to my own whims, and the grammar explanation is primarily
 knowledge of linguistics and conlangs (such as myself...), I have had much to improve regarding the
 presentation, and that continues to be so. I used Pandoc to convert the files to a rough RST format and then
 manually edited them for further clarity, although I would like to find a better presentation for the vocabulary.
-On my Github_ repository for my conlangs you may also find other versions of the same files 
-for practicing other writing tools, e.g. Markdown. The most up to date version will always be 
+On my Github_ repository for my conlangs you may also find other versions of the same files
+for practicing other writing tools, e.g. Markdown. The most up to date version will always be
 the one present here and published through Read the Docs, however. Over time, I will probably add more
 files, for example on the proto-languages, as I find time to do the editing. Any comments are welcome!
 
