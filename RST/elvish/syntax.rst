@@ -32,7 +32,7 @@ Person NOM    ACC      DAT        COM/INS
 3PLIN  θi\:lm θi\:lmið θi:ʁ|We|   θi:lmin
 ====== ====== ======== ========== ========
 
-.. |We| replace:: :superscript:`w`\ e
+.. |We| replace:: we
 
 \* When the following word begins with a vowel, reduces to wɛl
 
@@ -127,9 +127,11 @@ The pronominal demonstrative is a deictic suffix on 3SG or noun forms. These dis
 | Distal: -ɑm
 | Neutral: -aʃ (*of unknown origin*)
 
+
 The adnominal demonstrative is formed by a separate word following the noun. It lacks a neutral form:
-| Near speaker: jap\ :superscript:`h` (from 'ja p\ :superscript:`h`\ an', meaning 'the here' in | proto-Elvish)
-| Near hearer: imas (from 'i:mas', no longer functional locative of 2SG, ie 'at | you')
+
+| Near speaker: jap\ :superscript:`h` (from 'ja p\ :superscript:`h`\ an',  meaning 'the here' in | proto-Elvish)
+| Near hearer: imas (from 'i:mas', no longer functional locative of 2SG, ie 'at you')
 | Distal: jɑmpɑn (from 'ja ɑmpɑn', 'the there' in proto-Elvish)
 
 There is a distributive suffix (meaning 'all around, all over the place, all about' etc. When used on a noun instead of the verb, it means ‘each’, e.g.
@@ -144,7 +146,7 @@ gave...' becomes 'to three people I gave...'.)
 *Adpositions*:
 
 Adpositions precede nouns. Most, however, appear as derivational
-morphology, see `Derivational Morphology`_ below.
+morphology: see `Derivational Morphology`_ below.
 
 *Verbs:*
 
@@ -192,7 +194,7 @@ Tense:
 Present/Future: unmarked.
 Hodiernal: -xar (proto-Elvish 'ixaraθ', 'yesterday')
 Proximate past: -par (unknown)
-General past: -t:superscript:`h`\ u (proto-Elvish verb stem 't:superscript:`h`\ ul-',
+General past: -t\ :superscript:`h`\ u (proto-Elvish verb stem 't\ :superscript:`h`\ ul-',
 'get, receive')
 Remote past: -qa (proto-Elvish verb stem 'qal-', 'say'; evolved from
 evidential to tense)
@@ -310,7 +312,7 @@ Qs:
 
 Relative clause markers:
 
-- Interrogative pronoun (inflected for case and noun class): θær (*pl.*\ θæri) ('who, what'), mainly used in independent pronominal position
+- Interrogative pronoun (inflected for case and noun class): θær (*pl.* θæri) ('who, what'), mainly used in independent pronominal position
 
 - Verbal suffix -daθ (*orig. via 'da+θær'*), forming a relative form of the verb ('the one who died...' -> DEF.man die.PST.3.SG.REL)
 
@@ -322,7 +324,7 @@ Possessives:
 - Possessives are marked by the possessive enclitic -u, which attaches to the first noun of the possessed phrase, followed by the (non-obligatory) pronoun markers.
 
 E.g. 'I get the dog's big white bone' = *t*\ :superscript:`h`\ *ulwə* *eulnda
-galau ail yasi:lɑn:il*\ (get.1SG bone.3SG snow.like big DEF.dog)
+galau ail yasi:lɑn:il* (get.1SG bone.3SG snow.like big DEF.dog)
 
 Adverbials:
 ***********
@@ -377,7 +379,7 @@ possible but not obligatory contextual meaning of 'too much' of either.)
 
 - -like, akin to: -au
 
-- Time: C/_# -> s (e.g. nathail 'moon' -> nathais 'month')
+- Time: C/_# -> s (e.g. *nathail* 'moon' -> *nathais* 'month')
 
 - Stative nominalizer (state of being): -lɔn, -ɑn
 
