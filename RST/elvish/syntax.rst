@@ -16,24 +16,24 @@ Pronouns
 
 Independent forms:
 
-====== ====== ======== ========== ========
-Person NOM    ACC      DAT        COM/INS
-====== ====== ======== ========== ========
-1SG    wɛl:ə* wɛlð     wɛʁ|We|    wɛln
-2SG    i\:ma  i\:mað   i\:G|We|   i:man
-3SGAN  dana   danið    danG|We|   dan:
-3SGIN  danam  damnið   daG|We|    damnin
-1DU    wɛlz   wɛlzið   wɛʁ|We|    wɛlzin
-2DU    i\:maz i\:mazið i:mazG|We| i:mazin
-3DUAN  danaz  danazið  danazG|We| danazin
-3DUIN  danarm danarmið danaʁ|We|  danarmin
-1PL    mɑl\:a mɑlð     mɑʁ|We|      mɑl:an
-2PL    ʃeɔn   ʃeɔð     ʃeɔG|We|   ʃeɔn
-3PLAN  θi\:l  θi\:lið  θi:ʁ|We|   θi:lin
-3PLIN  θi\:lm θi\:lmið θi:ʁ|We|   θi:lmin
-====== ====== ======== ========== ========
+====== ====== ======== ============ ========
+Person NOM    ACC      DAT          COM/INS
+====== ====== ======== ============ ========
+1SG    wɛl:ə* wɛlð     wɛʁ\ |We|    wɛln
+2SG    i\:ma  i\:mað   i\:G\ |We|   i:man
+3SGAN  dana   danið    danG\ |We|   dan:
+3SGIN  danam  damnið   daG\ |We|    damnin
+1DU    wɛlz   wɛlzið   wɛʁ\ |We|    wɛlzin
+2DU    i\:maz i\:mazið i:mazG\ |We| i:mazin
+3DUAN  danaz  danazið  danazG\ |We| danazin
+3DUIN  danarm danarmið danaʁ\ |We|  danarmin
+1PL    mɑl\:a mɑlð     mɑʁ\ |We|    mɑl:an
+2PL    ʃeɔn   ʃeɔð     ʃeɔG\ |We|   ʃeɔn
+3PLAN  θi\:l  θi\:lið  θi:ʁ\ |We|   θi:lin
+3PLIN  θi\:lm θi\:lmið θi:ʁ\ |We|   θi:lmin
+====== ====== ======== ============ ========
 
-.. |We| replace:: we
+.. |We| replace:: :superscript:`w`\ e
 
 \* When the following word begins with a vowel, reduces to wɛl
 
