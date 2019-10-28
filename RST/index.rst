@@ -13,7 +13,9 @@ my own conlangs along more naturalistic and scientifically grounded lines. I hav
 langing, and although it is somewhat unfashionable nowadays among conlangers (I think), did not hesi
 tate to apply them to your typical post-Tolkienian fantasy setting, such as one for my D&D games.
 I wanted to develop at least one 'canonical' human, elven, and dwarven language, each with very
-different features and principles. The human is inspired (among other things) by Austronesian and
+different features and principles. 
+
+The human is inspired (among other things) by Austronesian and
 Polynesian languages; the elvish one by polysynthesis in native North America (albeit with a more
 traditionally 'elvish' phonology); the dwarvish one has a heavy nominal syntax and takes inspiration
 from Bantu and Australian languages. They are quite incomplete, some more so than others, and I tinker
